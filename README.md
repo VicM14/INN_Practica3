@@ -4,5 +4,5 @@
 `mkdir carpeta`
 `cd carpeta`
 _______________________________________________________________________________
-![imagen](INN_Practica3/apartado3/screenshot.png)
+![imagen](/INN_Practica3/apartado3/screenshot.png)
 # Autor: Victoria Madriz
